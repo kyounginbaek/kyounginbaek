@@ -30,7 +30,7 @@
   <br>
 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Amazon Aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
   <br>
   
